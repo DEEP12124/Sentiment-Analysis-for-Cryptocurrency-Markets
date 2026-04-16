@@ -42,4 +42,4 @@ Data sourced from Kaggle (2018–2023 crypto data)
 
 ## 👨‍💻 Author
 
-Yuvraj Singh
+Yuvraj, Anshil, Depanshu
