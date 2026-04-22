@@ -1,4 +1,4 @@
-# Sentiment Analysis of Cryptocurrency Market
+# Sentiment Analysis of Cryptocurrency market using machine learning
 
 This project analyzes the relationship between public sentiment and cryptocurrency price movements using real-world data.
 
