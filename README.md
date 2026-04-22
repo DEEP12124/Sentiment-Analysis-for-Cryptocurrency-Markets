@@ -8,7 +8,7 @@ We collected and combined cryptocurrency-related data from multiple sources, inc
 
 ## 🎯 Objective
 
-To understand how market sentiment impacts cryptocurrency price trends and to build models that can predict price movement based on sentiment.
+To understand how market sentiment affects cryptocurrency price trends and to build models that predict price movements based on sentiment.
 
 ## 🛠️ Tech Stack
 
@@ -31,10 +31,11 @@ To understand how market sentiment impacts cryptocurrency price trends and to bu
 The project demonstrates a correlation between sentiment polarity and market movements, showing how social and news sentiment can influence crypto prices.
 
 ## 📈 Model Performance
--SVM — LinearSVC         Acc: 78.0%  F1: 78.1% ← BEST
--Logistic Regression     Acc: 76.7%  F1: 76.8%
--KNN (k=5)               Acc: 51.3%  F1: 51.4%
--Decision Tree           Acc: 46.7%  F1: 40.5%
+
+- Logistic Regression Accuracy: 76.7%
+- SVM -LinearSVC Accuracy: 78.0%
+- KNN (k=5) Accuracy: 51.3%
+- Decision Tree Accuracy: 46.7%
 
 ## 🚀 Future Work
 
